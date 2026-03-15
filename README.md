@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Riaz Ahammed<br><br>🚀 Aspiring **MERN Stack Developer**  <br>💻 Passionate about building clean, scalable, and real-world web applications  <br>🌱 Currently learning **backend development** (Node.js, Express, MongoDB) and full-stack project building.
+Hi 👋, I'm Riaz Ahammed<br>
 
 ## 🌐 Connect with Me
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahammedriaz111@gmail.com)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riazzz-ahammed) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/r1az.ahammed)
